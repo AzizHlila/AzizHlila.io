@@ -1,27 +1,22 @@
 {
   "files": {
-    "main.css": "/azizhlila/static/css/main.80d3ad98.css",
-    "main.js": "/azizhlila/static/js/main.e78fbf49.js",
-    "static/js/787.7efd31bd.chunk.js": "/azizhlila/static/js/787.7efd31bd.chunk.js",
-    "static/media/leaf.png": "/azizhlila/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/azizhlila/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/azizhlila/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/azizhlila/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/azizhlila/static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "/azizhlila/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/azizhlila/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "/azizhlila/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/azizhlila/static/media/Soumyajit_Behera-BIT_MESRA.51bf91e4644d2514e97b.pdf",
-    "static/media/home-bg.jpg": "/azizhlila/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/azizhlila/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/azizhlila/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/azizhlila/index.html",
-    "main.80d3ad98.css.map": "/azizhlila/static/css/main.80d3ad98.css.map",
-    "main.e78fbf49.js.map": "/azizhlila/static/js/main.e78fbf49.js.map",
-    "787.7efd31bd.chunk.js.map": "/azizhlila/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/AzizHlila/static/css/main.b6efa785.css",
+    "main.js": "/AzizHlila/static/js/main.425fa823.js",
+    "static/js/787.7efd31bd.chunk.js": "/AzizHlila/static/js/787.7efd31bd.chunk.js",
+    "static/media/avatar2.png": "/AzizHlila/static/media/avatar2.91c4008210db0bf10738.png",
+    "static/media/CNN_project.png": "/AzizHlila/static/media/CNN_project.4c639a5702be0096238b.png",
+    "static/media/LearnlyApp.png": "/AzizHlila/static/media/LearnlyApp.ac6e959cf9eb2f544fe6.png",
+    "static/media/Hlila_Aziz.pdf": "/AzizHlila/static/media/Hlila_Aziz.63b2b13daedddf7d788b.pdf",
+    "static/media/TradeLab.jpg": "/AzizHlila/static/media/TradeLab.892309ef46b706de3b22.jpg",
+    "static/media/about.svg": "/AzizHlila/static/media/about.c8327607e0c3bee557034e81e141484c.svg",
+    "static/media/pre.svg": "/AzizHlila/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/AzizHlila/index.html",
+    "main.b6efa785.css.map": "/AzizHlila/static/css/main.b6efa785.css.map",
+    "main.425fa823.js.map": "/AzizHlila/static/js/main.425fa823.js.map",
+    "787.7efd31bd.chunk.js.map": "/AzizHlila/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80d3ad98.css",
-    "static/js/main.e78fbf49.js"
+    "static/css/main.b6efa785.css",
+    "static/js/main.425fa823.js"
   ]
 }
