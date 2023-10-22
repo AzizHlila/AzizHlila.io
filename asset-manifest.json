@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.19aabec4.css",
-    "main.js": "/static/js/main.dc915abe.js",
-    "static/js/787.7efd31bd.chunk.js": "/static/js/787.7efd31bd.chunk.js",
-    "static/media/avatar2.png": "/static/media/avatar2.91c4008210db0bf10738.png",
-    "static/media/CNN_project.png": "/static/media/CNN_project.4c639a5702be0096238b.png",
-    "static/media/LearnlyApp.png": "/static/media/LearnlyApp.ac6e959cf9eb2f544fe6.png",
-    "static/media/Hlila_Aziz.pdf": "/static/media/Hlila_Aziz.63b2b13daedddf7d788b.pdf",
-    "static/media/TradeLab.jpg": "/static/media/TradeLab.892309ef46b706de3b22.jpg",
-    "static/media/about.svg": "/static/media/about.c8327607e0c3bee557034e81e141484c.svg",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/index.html",
-    "main.19aabec4.css.map": "/static/css/main.19aabec4.css.map",
-    "main.dc915abe.js.map": "/static/js/main.dc915abe.js.map",
-    "787.7efd31bd.chunk.js.map": "/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/AzizHlila/static/css/main.b6efa785.css",
+    "main.js": "/AzizHlila/static/js/main.16534df7.js",
+    "static/js/787.7efd31bd.chunk.js": "/AzizHlila/static/js/787.7efd31bd.chunk.js",
+    "static/media/avatar2.png": "/AzizHlila/static/media/avatar2.91c4008210db0bf10738.png",
+    "static/media/CNN_project.png": "/AzizHlila/static/media/CNN_project.4c639a5702be0096238b.png",
+    "static/media/LearnlyApp.png": "/AzizHlila/static/media/LearnlyApp.ac6e959cf9eb2f544fe6.png",
+    "static/media/Hlila_Aziz.pdf": "/AzizHlila/static/media/Hlila_Aziz.63b2b13daedddf7d788b.pdf",
+    "static/media/TradeLab.jpg": "/AzizHlila/static/media/TradeLab.892309ef46b706de3b22.jpg",
+    "static/media/about.svg": "/AzizHlila/static/media/about.c8327607e0c3bee557034e81e141484c.svg",
+    "static/media/pre.svg": "/AzizHlila/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/AzizHlila/index.html",
+    "main.b6efa785.css.map": "/AzizHlila/static/css/main.b6efa785.css.map",
+    "main.16534df7.js.map": "/AzizHlila/static/js/main.16534df7.js.map",
+    "787.7efd31bd.chunk.js.map": "/AzizHlila/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19aabec4.css",
-    "static/js/main.dc915abe.js"
+    "static/css/main.b6efa785.css",
+    "static/js/main.16534df7.js"
   ]
 }
