@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.049f4184.css",
-    "main.js": "/portfolio/static/js/main.24bc7f43.js",
-    "static/js/787.7efd31bd.chunk.js": "/portfolio/static/js/787.7efd31bd.chunk.js",
-    "static/media/CNN_project.png": "/portfolio/static/media/CNN_project.4c639a5702be0096238b.png",
-    "static/media/LearnlyApp.png": "/portfolio/static/media/LearnlyApp.ac6e959cf9eb2f544fe6.png",
-    "static/media/Hlila_Aziz.pdf": "/portfolio/static/media/Hlila_Aziz.63b2b13daedddf7d788b.pdf",
-    "static/media/avatar.jpg": "/portfolio/static/media/avatar.f2cb5a161427fce7c869.jpg",
-    "static/media/TradeLab.jpg": "/portfolio/static/media/TradeLab.892309ef46b706de3b22.jpg",
-    "static/media/about.svg": "/portfolio/static/media/about.c8327607e0c3bee557034e81e141484c.svg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/portfolio/index.html",
-    "main.049f4184.css.map": "/portfolio/static/css/main.049f4184.css.map",
-    "main.24bc7f43.js.map": "/portfolio/static/js/main.24bc7f43.js.map",
-    "787.7efd31bd.chunk.js.map": "/portfolio/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/AzizHlila/static/css/main.a2ad3e42.css",
+    "main.js": "/AzizHlila/static/js/main.eedd228c.js",
+    "static/js/787.fa9cb370.chunk.js": "/AzizHlila/static/js/787.fa9cb370.chunk.js",
+    "static/media/avatar2.png": "/AzizHlila/static/media/avatar2.91c4008210db0bf10738.png",
+    "static/media/CNN_project.png": "/AzizHlila/static/media/CNN_project.4c639a5702be0096238b.png",
+    "static/media/LearnlyApp.png": "/AzizHlila/static/media/LearnlyApp.ac6e959cf9eb2f544fe6.png",
+    "static/media/Hlila_Aziz.pdf": "/AzizHlila/static/media/Hlila_Aziz.96108b9482d314594531.pdf",
+    "static/media/TradeLab.jpg": "/AzizHlila/static/media/TradeLab.892309ef46b706de3b22.jpg",
+    "static/media/about.svg": "/AzizHlila/static/media/about.c8327607e0c3bee557034e81e141484c.svg",
+    "static/media/pre.svg": "/AzizHlila/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/AzizHlila/index.html",
+    "main.a2ad3e42.css.map": "/AzizHlila/static/css/main.a2ad3e42.css.map",
+    "main.eedd228c.js.map": "/AzizHlila/static/js/main.eedd228c.js.map",
+    "787.fa9cb370.chunk.js.map": "/AzizHlila/static/js/787.fa9cb370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.049f4184.css",
-    "static/js/main.24bc7f43.js"
+    "static/css/main.a2ad3e42.css",
+    "static/js/main.eedd228c.js"
   ]
 }
