@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6ef8dada.css",
-    "main.js": "/portfolio/static/js/main.5da60d93.js",
+    "main.css": "/portfolio/static/css/main.b96c6f9e.css",
+    "main.js": "/portfolio/static/js/main.a16d6419.js",
     "static/js/787.fa9cb370.chunk.js": "/portfolio/static/js/787.fa9cb370.chunk.js",
     "static/media/avatar2.png": "/portfolio/static/media/avatar2.91c4008210db0bf10738.png",
     "static/media/CNN_project.png": "/portfolio/static/media/CNN_project.4c639a5702be0096238b.png",
     "static/media/LearnlyApp.png": "/portfolio/static/media/LearnlyApp.ac6e959cf9eb2f544fe6.png",
-    "static/media/Hlila_Aziz.pdf": "/portfolio/static/media/Hlila_Aziz.96108b9482d314594531.pdf",
+    "static/media/Hlila_Aziz.pdf": "/portfolio/static/media/Hlila_Aziz.f9e4c9f2683cc66e16bc.pdf",
     "static/media/TradeLab.jpg": "/portfolio/static/media/TradeLab.892309ef46b706de3b22.jpg",
     "static/media/about.svg": "/portfolio/static/media/about.c8327607e0c3bee557034e81e141484c.svg",
     "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/portfolio/index.html",
-    "main.6ef8dada.css.map": "/portfolio/static/css/main.6ef8dada.css.map",
-    "main.5da60d93.js.map": "/portfolio/static/js/main.5da60d93.js.map",
+    "main.b96c6f9e.css.map": "/portfolio/static/css/main.b96c6f9e.css.map",
+    "main.a16d6419.js.map": "/portfolio/static/js/main.a16d6419.js.map",
     "787.fa9cb370.chunk.js.map": "/portfolio/static/js/787.fa9cb370.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ef8dada.css",
-    "static/js/main.5da60d93.js"
+    "static/css/main.b96c6f9e.css",
+    "static/js/main.a16d6419.js"
   ]
 }
