@@ -61,7 +61,7 @@ function Home() {
                     marginLeft:"20px",
                     borderRadius: '5px',
                     textAlign: 'center',
-                    position: 'relative' ,
+                    position: 'relative' , // never remove
                   }}>
 
                       Download CV</Button>{' '}
