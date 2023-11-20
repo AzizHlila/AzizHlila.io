@@ -7,17 +7,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote  className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-          Hello, My name is <span className="purple"><b>Aziz Hlila</b> </span>  , and I am a software engineer.
-          <br/>
-          I have worked with various programming languages, including <span className="purple">Python, Java, and C++ </span> , 
-          and have created numerous<span className="purple"> machine Learning models and bots </span>  for web scraping and crypto trading. 
-          Additionally, I am proficient in building fully responsive websites using React and Django<span className="purple"> React and Django </span>, 
-          and I have a strong background in developing <span className="purple"> native Android applications</span>. 
-          <br/>
-          My journey in the world of software engineering has been driven by a passion for creating innovative solutions and turning ideas into reality through code and innovation.
+          I'm a <span className="purple"><b>software engineering student</b> </span> with experience in multipleprogramming languages such as <span className="purple">Python, Java, and C++</span>. In additionto my proficiency in these languages,
+           I also have a solid foundationin <span className="purple">machine learning</span> , enabling me to create intelligent systems thatmake data-driven predictions and decisions.
+           In addition, my skillsextend to <span className="purple">web development</span>, where I specialize in crafting fullyresponsive websites using React and Django. Furthermore,
+            I have astrong background in native<span className="purple"> Android</span> app development, allowing meto create seamless and efficient mobile applications that cater todiverse user needs.
           
-          <br />               
-
               
           </p>
         </blockquote>

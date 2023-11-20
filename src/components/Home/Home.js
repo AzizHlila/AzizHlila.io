@@ -6,6 +6,8 @@ import Type from "./Type";
 import About from "../About/About";
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom'
+import Badge from 'react-bootstrap/Badge';
+
 
 function Home() {
   const myRef = useRef(null);
@@ -21,46 +23,61 @@ function Home() {
         <Particle />
         <Container className="home-content">
           <Row>
-            <Col md={7} className="home-header">
+            <Col md={10} className="home-header">
               
-              <h1 className="heading">
+              <h4 st className="heading">
               <span  className="wave" role="img" aria-labelledby="wave">
               Hi
               </span>
                 , my name is{" "}
 
-              </h1>
+              </h4>
 
               <h1 className="heading-name">
-                <strong className="main-name"> Aziz Hlila.</strong>
+                <strong className="main-name"> Aziz Hlila</strong>
               </h1>
            
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
-                  <Button onClick={scrollToView}
+
+                <p style={{
+                  marginTop:'50px',
+                  color:"white",
+                  fontSize:"12pt"
+                }}>
+                The Symphony of Coding Brilliance: Harmonizing Problem Solving, Composing the Future of Software Excellence.
+                </p>
+
+
+                  <Button 
+                  onClick={scrollToView}
                       variant="outline-light"
                       style={{
                         // textDecoration: 'none',
                         display: 'inline-block',
-                        marginTop:"20px",
+                        marginTop:"30px",
                         borderRadius: '5px',
+                        fontSize:"18pt",
+                        marginLeft:"20px",
                         textAlign: 'center',
                         position: 'relative' ,
+                        
                       }}>
 
                       Contact Me
                   </Button>
                   <Link to={'/resume'}>
-
-                  <Button variant="info"
+                  <Button 
                   
                   style={{
                     // textDecoration: 'none',
                     display: 'inline-block',
-                    marginTop:"20px",
+                    marginTop:"30px",
                     marginLeft:"20px",
                     borderRadius: '5px',
+                    fontSize:"18pt",
                     textAlign: 'center',
+                    
                     position: 'relative' , // never remove
                   }}>
 
@@ -76,12 +93,11 @@ function Home() {
         </Container>
       </Container>
       <About />
-      <div style={{ height: '200px', overflowY: 'scroll' }}>
+      <div style={{ height: '400px', overflowY: 'scroll' }}>
         {/* Element to scroll to */}
-        <div id="scrollToElement" ref={myRef}></div>
-      <Home2/>
-      </div>
-
+        <div id="scrollToElement" ref={myRef}>
+      <Home2 style={{marginBottom:"100px"}}/>
+      </div></div>
     </section>
   );
 }

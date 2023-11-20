@@ -13,8 +13,9 @@ function Home2() {
   return (
       <Container>
         <Row>
-          <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+          <Col md={12}  className="home-about-social">
+
+            <h1>Find me on</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
@@ -60,6 +61,10 @@ function Home2() {
                 </a>
               </li>
             </ul>
+          </Col>
+        </Row>
+        <Row>
+          <Col>
           </Col>
         </Row>
       </Container>

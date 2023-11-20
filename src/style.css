@@ -1,3 +1,34 @@
+.contact-form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contact-form input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.contact-form textarea {
+  width: 100%;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.contact-form button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
 html {
   --section-background-color: linear-gradient(
     to bottom left,
@@ -97,7 +128,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #f9ff8e !important;
+  background-color: #8eeeff !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -278,7 +309,7 @@ button:focus {
 }
 
 .Typewriter__wrapper {
-  font-size: 2.2em !important;
+  font-size: 3em !important;
   color: #64ffda !important;
   font-weight: 600 !important;
 }
@@ -346,10 +377,10 @@ button:focus {
 .home-social-icons {
   position: relative !important;
   display: inline-block !important;
-  width: 40px !important;
-  height: 40px !important;
+  width: 90px !important;
+  height: 90px !important;
   text-align: center !important;
-  font-size: 1.2em !important;
+  font-size: 2.5em !important;
   line-height: 2em !important;
   background: rgba(255, 255, 255, 0.972) !important;
   border-radius: 50% !important;
@@ -357,10 +388,10 @@ button:focus {
 }
 .home-scrolling-btns {
   position: relative !important;
-  width: 40px !important;
-  height: 40px !important;
+  width: 90px !important;
+  height: 90px !important;
   text-align: center !important;
-  font-size: 1.2em !important;
+  font-size: 2.5em !important;
   line-height: 2em !important;
   background: rgba(255, 255, 255, 0.972) !important;
   border-radius: 50% !important;
