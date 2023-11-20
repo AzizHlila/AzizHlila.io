@@ -355,6 +355,16 @@ button:focus {
   border-radius: 50% !important;
   transition: 0.5s !important;
 }
+.home-scrolling-btns {
+  position: relative !important;
+  width: 40px !important;
+  height: 40px !important;
+  text-align: center !important;
+  font-size: 1.2em !important;
+  line-height: 2em !important;
+  background: rgba(255, 255, 255, 0.972) !important;
+  border-radius: 50% !important;
+}
 
 .home-social-icons::before {
   content: "";
@@ -540,15 +550,14 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
   color: white !important;
 }
 
 .tech-icons {
-  font-size: 2.5em !important;
-  margin: 15px !important;
-  padding: 10px !important;
+  font-size: 1.1em !important;
+  margin: 5px !important;
   opacity: 0.93 !important;
+  padding: 5px;
   border: 1px solid #64ffdb  !important;
   vertical-align: middle !important;
   text-align: center !important;

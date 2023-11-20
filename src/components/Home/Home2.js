@@ -11,45 +11,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
-    <Container fluid className="home-about-section" id="about">
       <Container>
-        <Row>
-          <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> A Brief Introduction</span> 
-            </h1>
-                           <br />
-
-            <p className="home-about-body">
-            Hello, I'm Aziz Hlila, a student of software engineering who is passionate about developing technological solutions. Web development, machine learning, and native Android app development are some of my areas of competence.
-            <br />
-            <br />
-
-              <span className="purple"> Web development: </span> 
-              I able to create dynamic, user-friendly websites. I enjoy transforming ideas into digital experiences that not only look fantastic but also work perfectly.
-               <br />               
-               <br />
-
-               <span className="purple"> Machine learning: </span> 
-
-                I've been exploring AI models for a range of applications due to my curiosity with machine learning. I'm motivated by the limitless potential of this constantly developing discipline, which ranges from picture recognition to tackling challenging real-world challenges.
-                <br />
-                <br />
-                <span className="purple"> Native Android App Development: </span> 
-
-I have the ability to create native Android applications with an emphasis on user-centric functionality and design. I have a love for developing mobile solutions that improve user experience.
-
-
-                
-
-            </p>
-          </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
-          </Col>
-        </Row>
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
@@ -101,7 +63,6 @@ I have the ability to create native Android applications with an emphasis on use
           </Col>
         </Row>
       </Container>
-    </Container>
   );
 }
 export default Home2;

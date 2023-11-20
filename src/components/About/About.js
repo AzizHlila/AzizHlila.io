@@ -14,6 +14,13 @@ function About() {
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
+            md={5}
+            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            className="about-img"
+          >
+            <img src={laptopImg} alt="about" className="img-fluid" />
+          </Col>        
+            <Col
             md={7}
             style={{
               justifyContent: "center",
@@ -25,20 +32,15 @@ function About() {
               <strong className="purple">About Me</strong>
             </h1>
             <Aboutcard />
+            <Techstack />
           </Col>
-          <Col
-            md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
-            className="about-img"
-          >
-            <img src={laptopImg} alt="about" className="img-fluid" />
-          </Col>
+
         </Row>
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
 
-        <Techstack />
+        
 {/* 
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
